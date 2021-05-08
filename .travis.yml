@@ -1,4 +1,4 @@
-dist: focal
+dist: unstable
 
 script:
   - sudo ./travis-build.sh
