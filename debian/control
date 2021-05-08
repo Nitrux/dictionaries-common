@@ -3,7 +3,7 @@ Maintainer: Agustin Martin Domingo <agmartin@debian.org>
 Uploaders: Rene Engelhard <rene@debian.org>
 Section: text
 Priority: optional
-Build-Depends: debhelper-compat (= 13),
+Build-Depends: debhelper-compat (= 12),
                quilt (>= 0.40)
 Build-Depends-Indep: docbook-xml,
                      docbook-dsssl,
