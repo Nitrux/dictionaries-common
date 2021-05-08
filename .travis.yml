@@ -1,4 +1,4 @@
-dist: unstable
+dist: impish
 
 script:
   - sudo ./travis-build.sh
