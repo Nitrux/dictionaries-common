@@ -5,7 +5,7 @@ script:
 
 branches:
   only:
-    - master
+    - main
 
 deploy:
   - provider: script
